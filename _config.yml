@@ -11,7 +11,7 @@ title                    : "Le blog d'Ubinews"
 title_separator          : "-"
 name                     : "Ubinews"
 description              : "Plateforme éditoriale à la demande | Media : articles à la demande et production de contenu | Journalistes : déposez et vendez vos articles"
-url                      : "http://blog.ubinews.net"
+url                      : # "http://blog.ubinews.net"
 baseurl                  : # "/ubiblog"
 gh_repo                  :
 teaser                   : "500x300.png"
