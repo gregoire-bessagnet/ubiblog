@@ -15,7 +15,7 @@ url                      : # "http://blog.ubinews.net"
 baseurl                  : /ubiblog
 gh_repo                  :
 teaser                   : "500x300.png"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # "facebook", "google-plus"
