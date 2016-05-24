@@ -1,6 +1,8 @@
 ---
-layout: archive
-author_profile: true
+layout: splash
+header:
+  overlay_image: background_nb.jpg
+  overlay_filter: rgba(255, 0, 0, 0.5)
 ---
 
 {% include base_path %}
@@ -8,7 +10,7 @@ author_profile: true
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
 
 {% for post in paginator.posts %}
-  {% include archive-single.html %}
+  {% include archive-single.html type="grid"%}
 {% endfor %}
 
 {% include paginator.html %}
