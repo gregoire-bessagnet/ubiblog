@@ -5,10 +5,8 @@ related: true
 permalink: /toolbox/
 ---
 
-<ul>
+<div class="grid__wrapper">
   {% for post in site.categories.toolbox %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
+    {% include archive-single.html type="grid" %}
   {% endfor %}
-</ul>
+</div>
