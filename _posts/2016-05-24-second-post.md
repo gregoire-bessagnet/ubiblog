@@ -3,7 +3,7 @@ published: true
 layout: single
 title: Second post
 date: "2016-05-24 21:09:09 +0200"
-categories: blog
+categories: toolbox
 ---
 ## A New Post
 
