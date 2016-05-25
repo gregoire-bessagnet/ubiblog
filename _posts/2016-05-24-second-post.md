@@ -4,8 +4,6 @@ layout: single
 title: Second post
 date: "2016-05-24 21:09:09 +0200"
 categories: blog
-header: "http://placekitten.com/200/300"
-image: "http://placekitten.com/200/300"
 ---
 ## A New Post
 

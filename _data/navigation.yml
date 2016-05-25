@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Toolbox"
-    url: #
+    url: /toolbox/#
 
   - title: "A propos"
-    url: #
+    url: /a-propos/#
 
   - title: "Contact"
-    url: #
+    url: /contact/#
