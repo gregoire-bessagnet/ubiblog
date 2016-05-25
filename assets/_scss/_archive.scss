@@ -114,6 +114,9 @@ a:hover {
     .archive__item-teaser {
       max-height: 200px;
     }
+    .archive__item-teaser-home {
+      max-height: 300px;
+    }
   }
 
   @include breakpoint($medium) {
