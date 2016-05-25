@@ -49,7 +49,7 @@
 
 .archive__item-teaser {
   border-radius: $border-radius;
-  overflow: hidden;
+  overflow: visible;
   img {
     width: 100%;
   }
@@ -121,9 +121,6 @@ a:hover {
     margin-right: 0; // reset before mixin does its thing
     @include gallery(2.5 of 10);
 
-    .archive__item-teaser {
-      max-height: 120px;
-    }
 
     .archive__item-excerpt {
       display: block;
