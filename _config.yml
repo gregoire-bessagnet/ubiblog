@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # "facebook", "google-plus"
   disqus:
-    shortname            : blog_ubinews
+    shortname            : "blogubinews"
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
