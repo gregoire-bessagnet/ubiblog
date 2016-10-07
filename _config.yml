@@ -250,6 +250,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-redirect-from
+  - jekyll-admin
 
 # Archives
 #  Type
