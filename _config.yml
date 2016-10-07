@@ -240,6 +240,7 @@ gems:
   - jekyll-feed
   - jemoji
   - jekyll-redirect-from
+  - jekyll-admin
 
 # mimic GitHub Pages with --safe
 whitelist:
