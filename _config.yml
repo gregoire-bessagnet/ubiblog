@@ -241,6 +241,7 @@ gems:
   - jemoji
   - jekyll-redirect-from
   - jekyll-admin
+  - jekyll-watch
 
 # mimic GitHub Pages with --safe
 whitelist:
